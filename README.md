@@ -1,3 +1,9 @@
+<h1> Hi! I am Mehak Rajpal <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif " alt="Sublime's custom image"/> </h1>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="Sublime's custom image"/>
+</p>
+<br>
+<br>
 # 💫 About Me:
 🌱 I’m a Computer Science Engineering Student<br>🔭 I’m currently working on Fullstack Web Development<br>💬 Ask me about Web Development and DSA<br>📫 How to reach me - mehakrajpal90@gmail.com
 
