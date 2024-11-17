@@ -1,4 +1,4 @@
-<h1>  <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif " alt="Sublime's custom image" height="30px"/> &nbsp;&nbsp; Hi! I am Mehak Rajpal. </h1>
+<h1>  <img src="https://tenor.com/view/hello-gif-24408873 " alt="Sublime's custom image" height="30px"/> &nbsp;&nbsp; Hi! I am Mehak Rajpal. </h1>
 <br>
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="Sublime's custom image " height="350px"/>
